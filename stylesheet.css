@@ -5,3 +5,7 @@
 h2 {
     margin: 5px;
 }
+
+. red-background {
+    background-color:rgb(red, green, blue)
+}
