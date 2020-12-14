@@ -6,6 +6,28 @@ h2 {
     margin: 5px;
 }
 
-.background {
-    background-color:rgb(red, green, blue)
+body {
+    background: rgb(233, 129, 11);)
+}
+
+h1 {
+    background: slateblue;
+}
+
+h2 {
+    background: rgb(48, 155, 101);
+}
+header, footer{
+    text-align: center;
+}
+
+p {
+    border: solid black 1px;
+    display: inline-block;
+    width: 450px;
+    float: right;
+}
+
+img {
+    border: solid black 1px;
 }
