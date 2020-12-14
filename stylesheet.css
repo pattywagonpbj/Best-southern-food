@@ -22,11 +22,14 @@ header, footer{
 }
 
 p {
-    border: solid black 1px;
     display: inline-block;
     width: 450px;
 }
 
-img {
+chicken {
     border: solid black 1px;
+}
+
+gravy {
+    border: solid blue 5px;
 }
