@@ -1,2 +1,1 @@
-var username = prompt('Please enter your name')
-
+var username = prompt('Please enter your name') 

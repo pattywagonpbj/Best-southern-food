@@ -12,13 +12,18 @@ body {
 
 h1 {
     background: slateblue;
+    font-size: 11mm;
+    margin: 7mm;
 }
 
 h2 {
     background: rgb(48, 155, 101);
 }
 header, footer{
+    background-color: chartreuse;
     text-align: center;
+    font-family: Cambria;
+    padding: 4mm;
 }
 
 p {
@@ -33,3 +38,22 @@ chicken {
 gravy {
     border: solid blue 5px;
 }
+
+li {
+    border: darkblue 3px double;
+    display: inline-block;
+    padding: 9px;
+    margin: 13px 36px;
+    font-size: 7mm;
+}
+
+section {
+    border: 1px rgb(233, 129, 11) solid;
+    margin: 9px 0px;
+}
+
+img {
+    border: 4px black ridge;
+    margin: 15px;
+}
+
